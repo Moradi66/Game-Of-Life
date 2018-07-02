@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    border:1px solid #000000;
+padding: 20px
+}
+.cells{
+    font-size: 0%;
+}
+.cell{
+    cursor: pointer;
+    display : inline-block;
+    width : 20px;
+    height : 20px;
+    border : .1px solid black;
+}
